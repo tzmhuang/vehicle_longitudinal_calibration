@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# unwanted files
+*~
+*.swp
+
+# tensorflow model files
+*.meta
+*.index
+*.data.*
+LearningAlgorithms/trained_models/
